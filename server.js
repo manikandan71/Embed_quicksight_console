@@ -14,8 +14,8 @@ app.get('/', function(req, res){
 
 
 quicksight.getDashboardEmbedUrl({
-      'AwsAccountId': '534860077983',
-      'DashboardId': 'dc4a5743-4e06-4278-8c99-02e77799a71e',
+      'AwsAccountId': '',
+      'DashboardId': '',
       'IdentityType': 'IAM',
       'SessionLifetimeInMinutes': 600,
       'UndoRedoDisabled': false
@@ -39,8 +39,8 @@ app.get('/customerchurn', function(req, res){
 
 
 quicksight.getDashboardEmbedUrl({
-      'AwsAccountId': '534860077983',
-      'DashboardId': 'f9963999-3733-42d3-ace6-7a646526456e',
+      'AwsAccountId': '',
+      'DashboardId': '',
       'IdentityType': 'IAM',
       'SessionLifetimeInMinutes': 600,
       'UndoRedoDisabled': false
@@ -64,8 +64,8 @@ app.get('/retail', function(req, res){
 
 
 quicksight.getDashboardEmbedUrl({
-      'AwsAccountId': '534860077983',
-      'DashboardId': '069b6cfb-b5ad-4316-b830-906a5595ab89',
+      'AwsAccountId': '',
+      'DashboardId': '',
       'IdentityType': 'IAM',
       'SessionLifetimeInMinutes': 600,
       'UndoRedoDisabled': false
@@ -89,8 +89,8 @@ app.get('/stockmarket', function(req, res){
 
 
 quicksight.getDashboardEmbedUrl({
-      'AwsAccountId': '534860077983',
-      'DashboardId': '7fbbf2de-f08c-4d1e-98fe-86c52db71090',
+      'AwsAccountId': '',
+      'DashboardId': '',
       'IdentityType': 'IAM',
       'SessionLifetimeInMinutes': 600,
       'UndoRedoDisabled': false
@@ -114,8 +114,8 @@ app.get('/insurance', function(req, res){
 
 
 quicksight.getDashboardEmbedUrl({
-      'AwsAccountId': '534860077983',
-      'DashboardId': '04eba8f8-78f4-4f29-b35b-9d2d54bcc5d4',
+      'AwsAccountId': '',
+      'DashboardId': '',
       'IdentityType': 'IAM',
       'SessionLifetimeInMinutes': 600,
       'UndoRedoDisabled': false
